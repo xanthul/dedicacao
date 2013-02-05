@@ -1,4 +1,0 @@
-dedicacao
-=========
-
-Short story
